@@ -4,3 +4,4 @@
   "repository": "https://github.com/Shoemakk/MusicBot",
   "addons": []
 }
+bot.run(os.environ['BOT_TOKEN'])
