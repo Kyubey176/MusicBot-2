@@ -1,6 +1,6 @@
-token=MzY5NDEyMTY4MzYzMjc4MzM2.Diy07g.sAs1kgw8Q7WEwHTVv6GXp_S5Ffg
-owner=103543965592064000
-prefix=!
+token=NDk0MjY4NDUxMTU4NzUzMjgx.DoxDGw.n-Va2OIySn4K__B82WIRp0-B4Mo
+owner=232911726603927552
+prefix=$
 game=https://nexus.games
 stayinchannel=true
 songinstatus=true
